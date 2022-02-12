@@ -1,0 +1,153 @@
+@media screen and (max-width: 420px){
+    
+    header, footer {
+        font-size: 14px;
+        position: sticky;
+        top: 0;
+        padding: 0;
+    }
+    #order {
+        font-size: 15px;
+    }
+    .socialMedia {
+        margin: 10px 0px 0px 10px;
+      }
+    .utp {
+        padding-top: 50px;
+    }
+    .utp h1 {
+        font-size: 4em;
+    }
+    .utp h3 {
+        font-size: 1.5em;
+    }
+    .text-offer {
+        padding: 15px;
+        text-align: center;
+        font-size: 21px;
+    }
+    .utp-wrap {
+        display: flex;
+        flex-flow: wrap;
+        justify-content: center;
+        width: 390px;
+        margin: 40px auto;
+        background: url(img/frr.jpg) 70% 0/auto 70%  no-repeat;
+    }
+    .mob-br {
+        display: block;
+      }
+    .text-one {
+        order:0;
+        margin-top: 50px;
+        margin-bottom: 100px;
+    }
+    .btn-wrap {
+        order:1;
+        margin-bottom: 210px;
+    }
+    .text-two {
+        order:2;
+        font-size: 22px;
+        padding: 0 20px;
+    }
+    .utp-img-block {
+        display: none;
+    }
+    .counts-img-wrap{
+        max-width:380px;
+    }
+    .counts {
+        width: 100%;
+    }
+    .button {
+        margin: 20px auto;
+    }
+    /* .button::after {
+        animation:none;
+    } */
+    .spk {
+        display: block;
+        
+    }
+    .second-title {
+        padding: 0 10px;
+    }
+   .spk {
+    width: 100%;
+   }
+    .fotorest {
+        max-width: 170px;
+        max-height: 120px;
+        margin: 10px auto;
+    }
+    .spkrinfoblock {
+        max-width: 340px;
+    }
+
+    .spkimgblock {
+        margin: 0 auto;
+    }
+    .org {
+        max-width:100%;
+    }
+    .orgtitle {
+        font-size: 2em;  
+        padding: 10px;
+    }
+    .org-block {
+        flex-direction: column;
+    }
+    .orgimgblock {
+        margin: 0 auto;
+    }
+    .orgimgblock, .orgname, .orginfo {
+        max-width: 350px;
+        margin: 0 auto;
+    }
+    .title {
+        font-size: 2em;
+    }
+    .parters-wrap {
+        flex-direction: column;
+        text-align: center;
+    }
+    .form {
+        max-width: 330px;
+    }
+    .warning {
+        margin: 0 20px 30px 20px;
+    }
+    .form-title {
+        font-size: 35px;
+    }
+    
+footer {
+    flex-wrap: wrap;
+}
+.image-slider__image img {
+   max-width:300px;
+}
+
+.swiper-slide {
+    padding-left: 30px;
+}
+.participate {
+    margin-left: 15px;
+  }
+
+  .popup__content {
+      max-width: 350px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+}
